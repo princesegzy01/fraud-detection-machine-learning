@@ -1,0 +1,22 @@
+# Fraud Detection Machine Learning Model
+
+## Problem Statement
+
+## Folder structure
+Below is a screenshot of the folder structure from google doc that contains .rpt (Crystal report file format), Readme in excel format and a zip file containg some .tab (tabe dataset file ) file.
+<img src="screenshots/gdrive.png">
+
+The Readme.xls contains descriptions filed for each file which is not clear enough.
+
+        Can we get a detail a detailed explanation of what each file is supposed to do ?
+
+## Data Wrangling
+After loading the data into pandas for data wrangling and exploaration, Below are summary details of the `aExport20191016.rpt` and the `aBlacklist20190805.tab` datasets.
+
+aExport20191016.rpt
+<img src="screenshots/rpt.png">
+
+aBlacklist20190805.tab
+<img src="screenshots/tab.png">
+
+        Can we get a detailed explanation of each colum and 
